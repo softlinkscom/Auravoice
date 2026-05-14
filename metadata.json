@@ -1,0 +1,8 @@
+{
+  "name": "Remix: VOICE CONTROL SYSTEM",
+  "description": "A futuristic voice-activated command center with continuous listening capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
